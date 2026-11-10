@@ -56,3 +56,7 @@ pozwala aplikacji wysyłać własne powiadomienia SMS. Szczegóły i ograniczeni
 
 > Repo zawiera wyłącznie własny kod i dokumentację. **Nie zawiera** APK, dekompilatu ani danych konta.
 > Sekrety i passkey trzymane są lokalnie w `~/.play24/` (poza repo).
+
+## Wsparcie
+
+Jeśli projekt Ci pomaga, możesz [wesprzeć o2eric na BuyCoffee](https://buycoffee.to/o2eric).
