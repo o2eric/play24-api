@@ -48,3 +48,7 @@ Play24 registration codes delivered to a handset.
 
 The project derives from [areqq/play24](https://github.com/areqq/play24) and
 retains its license and attribution.
+
+## Support
+
+If this project helps you, you can [support o2eric on BuyCoffee](https://buycoffee.to/o2eric).
