@@ -1,5 +1,7 @@
 # play24 — nieoficjalny klient API Play24
 
+[Polski](README.md) | [English](README.en.md)
+
 Narzędzia w Pythonie do zarządzania kontem **Play** (`com.play.play24m`) bez oficjalnej apki —
 wynik reverse-engineeringu API self-care. Jeden rdzeń (`play24lib.py`), cztery interfejsy:
 **CLI**, **JSON-CLI**, **biblioteka**, **serwer MCP**.
@@ -30,6 +32,10 @@ Pełny przewodnik (CLI / JSON / biblioteka / MCP / cron): **[QUICKSTART.md](QUIC
 Bez `uv`: `pip install requests cryptography` i `python3 play24.py …`.
 
 ## Dokumentacja
+
+Integracja z niezależną bramką [ZTE MC888 SMS Gateway](https://github.com/o2eric/zte-mc888-sms-gateway)
+pozwala aplikacji wysyłać własne powiadomienia SMS. Szczegóły i ograniczenia:
+[integracja SMS](docs/sms-gateway.md).
 | Dokument | O czym |
 |---|---|
 | [QUICKSTART.md](QUICKSTART.md) | Szybki start dla wszystkich czterech interfejsów |
